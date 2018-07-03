@@ -1,0 +1,1 @@
+This is a part of the child project.  The intention is to include this repository as a submodule of the parent.
